@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC project</string>
+    <string name="button1">ABOUT ALC</string>
+    <string name="profile">MY PROFILE</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="Track_Text">Track:</string>
+    <string name="country">Country:</string>
+    <string name="email_text">Email:</string>
+    <string name="phone_text">Phone number:</string>
+    <string name="slack_text">Slack Username:</string>
+    <string name="track_value">Android</string>
+    <string name="country_value">Nigeria</string>
+    <string name="email_value">jesufemiolagunju@gmail.com</string>
+    <string name="phone_value">08035321058</string>
+    <string name="slack_value">\@haybble</string>
+    <string name="name_value">OLAGUNJU Jesufemi</string>
+</resources>
